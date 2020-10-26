@@ -1,0 +1,11 @@
+Hey Viewer
+
+This is a project for Operating Systems
+The Concept used is - Application of threads
+
+I have provided the code file "OS PROJECT CODE.py"
+It's a python code file and you're required to have a Python IDE to run it (no sh*t!!!)
+
+For explanation of the project, please read the project report which is also provided
+
+PEACE
